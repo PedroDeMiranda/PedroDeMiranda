@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PedroDeMiranda
 - 👀 I’m interested in Codes, games and sports
 - 🌱 I’m currently learning java, DataBase and java script
-- 💞️ I’m looking to collaborate on companies or people with great ideas
+- 💞️ I’m looking to collaborate on technology companies
 - 📫 How to reach me pedromirandaneto.2006@gmail.com
 - ⚡ Fun fact: I'm two times state champion playing basketball
 
