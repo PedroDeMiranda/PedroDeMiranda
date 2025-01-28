@@ -10,7 +10,7 @@ Sou apaixonado por tecnologia, esportes e aprendizado contínuo! Atualmente, est
 ### 🔗 **Conecte-se comigo**
 
 - 📧 **E-mail:** [lpedromirandal@gmail.com](mailto:lpedromirandal@gmail.com)  
-- 💼 **LinkedIn:** [pedro-de-miranda14](https://www.www.linkedin.com/in/pedro-de-miranda14)  
+- 💼 **LinkedIn:** [pedro-de-miranda14](https://www.linkedin.com/in/pedro-de-miranda14/)  
 - 📄 **Currículo:** [Clique aqui para acessar meu currículo](https://pedrodemiranda.github.io/Curriculo/Index.html)
 
 ---
